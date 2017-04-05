@@ -4,4 +4,4 @@ We need to create scatter plot and box plot at the end but
 before that we need to address various discrepancies in the data before performing analysis
 
 The data has been acquired from superdatascience.com/course-advanced .
-The data contains 500 observations with 11 variables
+The dataset contains 500 observations with 11 variables

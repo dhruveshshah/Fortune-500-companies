@@ -15,4 +15,3 @@ d + geom_point() +
 f<-ggplot(data=fin,aes(x=Industry,y=Growth,colour=Industry))
 f + geom_jitter() +
   geom_boxplot(size=0.8,alpha=0.5,outlier.colour = NA)
-

@@ -2,8 +2,6 @@
 fin<-read.csv("File_Path",na.strings = c(""))
 fin
 head(fin,20)
-
-tail(fin)
 str(fin)
 summary(fin)
 

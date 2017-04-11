@@ -1,7 +1,5 @@
 # Fortune-500-companies
-We will create draft visualizations with the pseudo data for the fortune 500 companies. 
-We need to create scatter plot and box plot at the end but
-before that we need to address various discrepancies in the data before performing analysis
+I have created draft visualizations with the pseudo data for the fortune 500 companies. I have chose scatter plot and box plot to examine relation between expenditure and profit for different companies.But 
+before performing any analysis, address various discrepancies in the data is important. I have cleaned the data by treating the NA values, converting variables to different data types so that it can contribute to the analysis,imputing median for the missing data values and deriving new values for misssing data from existing value by using formulas.
 
-The data has been acquired from superdatascience.com/course-advanced .
-The dataset contains 500 observations with 11 variables
+The data has been acquired from superdatascience.com/course-advanced.
